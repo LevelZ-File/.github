@@ -1,0 +1,7 @@
+@type 2
+@spawn [0, 0]
+@scroll none
+---
+grass: [0, 0]*[1, 0]*[2, 0]
+stone: (0, 2, 0, 0)^[0, -1]
+end
