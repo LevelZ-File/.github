@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord
+    url: https://discord.gg/WDzuyqVwTX
+    about: Report an issue on our official Discord!
+  - name: Nexus Repository
+    url: https://repo.calcugames.xyz/
+    about: View artifacts available on our nexus repository.
