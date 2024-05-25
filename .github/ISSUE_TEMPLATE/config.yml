@@ -3,6 +3,9 @@ contact_links:
   - name: Discord
     url: https://discord.gg/WDzuyqVwTX
     about: Report an issue on our official Discord!
+  - name: Trello
+    url: https://trello.com/b/d3FSdPwd/levelz
+    about: View planned information on our Trello Board
   - name: Nexus Repository
     url: https://repo.calcugames.xyz/
     about: View artifacts available on our nexus repository.
